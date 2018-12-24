@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "./static/media/product2.89d234d8.jpeg"
   },
   {
-    "revision": "af509add6172dd8fc943",
-    "url": "./static/css/main.c3e485c2.chunk.css"
+    "revision": "d91c84056825accd3fba",
+    "url": "./static/css/main.d06b83d5.chunk.css"
   },
   {
-    "revision": "5a5b4526a144d0e0bdc5",
-    "url": "./static/js/1.5a5b4526.chunk.js"
+    "revision": "8e32ca8a0dec02782d93",
+    "url": "./static/js/1.8e32ca8a.chunk.js"
   },
   {
     "revision": "4a686d48d5a089750c49",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "./static/media/product1.92db1fbe.jpeg"
   },
   {
-    "revision": "af509add6172dd8fc943",
-    "url": "./static/js/main.af509add.chunk.js"
+    "revision": "d91c84056825accd3fba",
+    "url": "./static/js/main.d91c8405.chunk.js"
   },
   {
     "revision": "37a86f0fe3da85179efa3bedba7fd577",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "./static/media/product9.c6065345.jpeg"
   },
   {
-    "revision": "fbb0b9366296fb77b169761e7a7db053",
+    "revision": "e4ab6fb8a24a98d4affa86bc8db5831e",
     "url": "./index.html"
   }
 ];
