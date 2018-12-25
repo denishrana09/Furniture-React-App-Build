@@ -1,9 +1,9 @@
 {
-  "main.css": "./static/css/main.c3e485c2.chunk.css",
-  "main.js": "./static/js/main.af509add.chunk.js",
-  "main.js.map": "./static/js/main.af509add.chunk.js.map",
-  "static/js/1.5a5b4526.chunk.js": "./static/js/1.5a5b4526.chunk.js",
-  "static/js/1.5a5b4526.chunk.js.map": "./static/js/1.5a5b4526.chunk.js.map",
+  "main.css": "./static/css/main.4e301569.chunk.css",
+  "main.js": "./static/js/main.9e949948.chunk.js",
+  "main.js.map": "./static/js/main.9e949948.chunk.js.map",
+  "static/js/1.8e32ca8a.chunk.js": "./static/js/1.8e32ca8a.chunk.js",
+  "static/js/1.8e32ca8a.chunk.js.map": "./static/js/1.8e32ca8a.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
   "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
   "static/media/product9.jpeg": "./static/media/product9.c6065345.jpeg",
@@ -19,8 +19,8 @@
   "static/media/product7.jpeg": "./static/media/product7.6d1793e1.jpeg",
   "static/media/product8.jpeg": "./static/media/product8.d96aa409.jpeg",
   "static/media/sofa2.jpg": "./static/media/sofa2.65354306.jpg",
-  "static/css/main.c3e485c2.chunk.css.map": "./static/css/main.c3e485c2.chunk.css.map",
+  "static/css/main.4e301569.chunk.css.map": "./static/css/main.4e301569.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.f6dd4b5a679b1a361cff3c7aea0c328f.js": "./precache-manifest.f6dd4b5a679b1a361cff3c7aea0c328f.js",
+  "precache-manifest.4d16f2d71fe2832fc57068171ac59855.js": "./precache-manifest.4d16f2d71fe2832fc57068171ac59855.js",
   "service-worker.js": "./service-worker.js"
 }
