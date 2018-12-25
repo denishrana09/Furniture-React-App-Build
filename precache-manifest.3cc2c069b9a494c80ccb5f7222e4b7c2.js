@@ -1,43 +1,43 @@
 self.__precacheManifest = [
   {
-    "revision": "89d234d8d2c064f289191f1c3c521111",
-    "url": "./static/media/product2.89d234d8.jpeg"
+    "revision": "92db1fbe9f891237c92845706dc3c986",
+    "url": "./static/media/product1.92db1fbe.jpeg"
   },
   {
-    "revision": "9e949948b818b43aa51a",
-    "url": "./static/css/main.4e301569.chunk.css"
+    "revision": "450a7dde0d9a314825b5",
+    "url": "./static/css/main.dacd1657.chunk.css"
   },
   {
-    "revision": "8e32ca8a0dec02782d93",
-    "url": "./static/js/1.8e32ca8a.chunk.js"
+    "revision": "4779b144a660d536e089",
+    "url": "./static/js/1.4779b144.chunk.js"
   },
   {
     "revision": "4a686d48d5a089750c49",
     "url": "./static/js/runtime~main.4a686d48.js"
   },
   {
-    "revision": "a26019dc4207960ecc86f8e1ca02d7ea",
-    "url": "./static/media/sofa1.a26019dc.jpg"
+    "revision": "81e5dad69471e5922fc3ca93880205df",
+    "url": "./static/media/sofa2.81e5dad6.jpg"
   },
   {
-    "revision": "65354306307548a4f17dab97c7efd1c4",
-    "url": "./static/media/sofa2.65354306.jpg"
+    "revision": "3e8f6132c3f0e3b328a0c17a4f6da8a5",
+    "url": "./static/media/product2.3e8f6132.jpeg"
   },
   {
-    "revision": "c5507e5c0c3993370b9802465a3ed784",
-    "url": "./static/media/sofa3.c5507e5c.jpg"
+    "revision": "9716f38280593de27d3544d86e8a9a89",
+    "url": "./static/media/sofa3.9716f382.jpg"
   },
   {
     "revision": "fc92046553e4687202013a634b052562",
     "url": "./static/media/product10.fc920465.jpeg"
   },
   {
-    "revision": "92db1fbe9f891237c92845706dc3c986",
-    "url": "./static/media/product1.92db1fbe.jpeg"
+    "revision": "f6e0b87f59de04240cd39a869e331229",
+    "url": "./static/media/sofa1.f6e0b87f.jpg"
   },
   {
-    "revision": "9e949948b818b43aa51a",
-    "url": "./static/js/main.9e949948.chunk.js"
+    "revision": "450a7dde0d9a314825b5",
+    "url": "./static/js/main.450a7dde.chunk.js"
   },
   {
     "revision": "37a86f0fe3da85179efa3bedba7fd577",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "./static/media/product9.c6065345.jpeg"
   },
   {
-    "revision": "545b065b1ce9a4fa06ba2b4d35425f47",
+    "revision": "c54d317e041bd8ba9445a71ff4c88046",
     "url": "./index.html"
   }
 ];
